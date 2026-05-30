@@ -1,0 +1,17 @@
+{
+  "name": "fluid",
+  "version": "1.0.0",
+  "description": "WebGL Fluid Animation - Mobile Optimized",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "keywords": ["webgl", "fluid", "animation", "interactive", "mobile"],
+  "author": "anungunrammakv-jpg",
+  "license": "MIT"
+}
